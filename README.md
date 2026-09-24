@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Munira</h1>
-<h3 align="center">Freelance Backend Developer | Building School ERP Systems with Node.js & SQL</h3>
-
+<h1 align="center">Hi 👋, I'm MUNIRAM MEENA </h1>
+<h3 align="left"> M.sc Mathematics HINDU COLLEGE , DELHI UNIVERSITY  </h3>
+<h3 align="left"> B.Ed. Science and Mathematics RIE AJMER, NCERT NEW DELHI </h3>
+<h3 align="left"> B.sc Mathematics SBN COLLEGE , UNIVERSITY OF RAJASTHAN </h3>
+<h3 align="left">Freelance Backend Developer | Building School ERP Systems with Node.js & SQL</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
+  <p align="right">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
 <p align="center">
   I design and build backend systems for real products — most recently <b>School Office</b>, a school management ERP live in schools across Rajasthan, India.
 </p>
@@ -8,11 +14,11 @@
 ---
 
 ### 🚀 About Me
-- 💼 Freelance Backend Developer, building production systems end-to-end
+- 💼 Freelance Backend and frontend  Developer, building production systems end-to-end
 - 🏫 Creator of **[School Office](https://www.schooloffice.tech)** — an 11-module school ERP (founded 2025, Ajmer, Rajasthan)
 - 🛠️ I like turning messy manual processes (attendance registers, fee ledgers, exam tallying) into one clean dashboard
 - 🌱 Core stack: **Node.js**, **Express**, **SQL (MySQL/PostgreSQL)**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **Head@schooloffice.tech**
 - 🌐 Portfolio: **your-portfolio-link.com**
 
 ---
