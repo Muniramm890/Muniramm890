@@ -110,15 +110,15 @@ flowchart LR
   <a href="https://github.com/Muniramm890?tab=repositories"><img src="https://img.shields.io/badge/Profile-Muniramm890-1E2E52?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### 🏫 School Office repositories
+### 🏫 School Office and project repositories
 
-| Repository | Last commit | Commits (past year) | Main language | Size |
-| :-- | :--: | :--: | :--: | :--: |
-
-| [**schoolOfficeAdminFront**](https://github.com/Muniramm890/schoolOfficeAdminFront) | ![](https://img.shields.io/github/last-commit/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) |
-| [**SchoolOffice** (website)](https://github.com/Muniramm890/SchoolOffice) | ![](https://img.shields.io/github/last-commit/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) |
-
-| [**schoolOfficeAdminFront**](https://github.com/Muniramm890/SCHOOL-ERP-backend) | ![](https://img.shields.io/github/last-commit/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| Repository | What it is | Last commit | Commits (past year) | Main language | Size |
+| :-- | :-- | :--: | :--: | :--: | :--: |
+| [**SCHOOL-ERP-backend**](https://github.com/Muniramm890/SCHOOL-ERP-backend) | Node.js + Express REST API | ![](https://img.shields.io/github/last-commit/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**schoolOfficeAdminFront**](https://github.com/Muniramm890/schoolOfficeAdminFront) | React + TypeScript admin panel | ![](https://img.shields.io/github/last-commit/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**Student-app**](https://github.com/Muniramm890/Student-app) | React + Vite student app (PWA) | ![](https://img.shields.io/github/last-commit/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**SchoolOffice**](https://github.com/Muniramm890/SchoolOffice) | Product website | ![](https://img.shields.io/github/last-commit/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**E-LAB**](https://github.com/Muniramm890/E-LAB) | Digital Math E-Lab for NCERT | ![](https://img.shields.io/github/last-commit/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) |
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muniramm890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8600A&icon_color=E8600A" />
@@ -129,9 +129,16 @@ flowchart LR
   <img src="https://streak-stats.demolab.com/?user=Muniramm890&theme=tokyonight&hide_border=true&background=0D1117&ring=E8600A&fire=E8600A&currStreakLabel=E8600A" />
 </p>
 
+### 📈 Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muniramm890&bg_color=0D1117&color=E8600A&line=E8600A&point=FFFFFF&area=true&area_color=E8600A&hide_border=true" alt="Contribution activity graph" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muniramm890&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </p>
+
 ---
 
 ## 🎓 Education
