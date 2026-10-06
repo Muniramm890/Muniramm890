@@ -106,17 +106,17 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muniramm890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8600A&icon_color=E8600A" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniramm890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8600A" />
+  <a href="https://github.com/Muniramm890?tab=followers"><img src="https://img.shields.io/github/followers/Muniramm890?style=for-the-badge&logo=github&logoColor=white&labelColor=1E2E52&color=E8600A" /></a>
+  <a href="https://github.com/Muniramm890?tab=repositories"><img src="https://img.shields.io/badge/Profile-Muniramm890-1E2E52?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muniramm890&theme=tokyonight&hide_border=true&background=0D1117&ring=E8600A&fire=E8600A&currStreakLabel=E8600A" />
-</p>
+### 🏫 School Office repositories
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muniramm890&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</p>
+| Repository | Last commit | Commits (past year) | Main language | Size |
+| :-- | :--: | :--: | :--: | :--: |
+| [**SCHOOL-ERP-backend**](https://github.com/Muniramm890/SCHOOL-ERP-backend) | ![](https://img.shields.io/github/last-commit/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**schoolOfficeAdminFront**](https://github.com/Muniramm890/schoolOfficeAdminFront) | ![](https://img.shields.io/github/last-commit/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) |
+| [**SchoolOffice** (website)](https://github.com/Muniramm890/SchoolOffice) | ![](https://img.shields.io/github/last-commit/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) |
 
 ---
 
