@@ -103,34 +103,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Muniramm890?tab=followers"><img src="https://img.shields.io/github/followers/Muniramm890?style=for-the-badge&logo=github&logoColor=white&labelColor=1E2E52&color=E8600A" /></a>
-  <a href="https://github.com/Muniramm890?tab=repositories"><img src="https://img.shields.io/badge/Profile-Muniramm890-1E2E52?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-### 🏫 School Office and project repositories
-
-| Repository | What it is | Last commit | Commits (past year) | Main language | Size |
-| :-- | :-- | :--: | :--: | :--: | :--: |
-| [**SCHOOL-ERP-backend**](https://github.com/Muniramm890/SCHOOL-ERP-backend) | Node.js + Express REST API | ![](https://img.shields.io/github/last-commit/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SCHOOL-ERP-backend?style=flat-square&labelColor=1E2E52&color=E8600A) |
-| [**schoolOfficeAdminFront**](https://github.com/Muniramm890/schoolOfficeAdminFront) | React + TypeScript admin panel | ![](https://img.shields.io/github/last-commit/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/schoolOfficeAdminFront?style=flat-square&labelColor=1E2E52&color=E8600A) |
-| [**Student-app**](https://github.com/Muniramm890/Student-app) | React + Vite student app (PWA) | ![](https://img.shields.io/github/last-commit/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/Student-app?style=flat-square&labelColor=1E2E52&color=E8600A) |
-| [**SchoolOffice**](https://github.com/Muniramm890/SchoolOffice) | Product website | ![](https://img.shields.io/github/last-commit/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) |
-| [**E-LAB**](https://github.com/Muniramm890/E-LAB) | Digital Math E-Lab for NCERT | ![](https://img.shields.io/github/last-commit/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) |
-
-### 📈 GitHub metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muniramm890&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</p>
-
----
 
 ## 🎓 Education
 
