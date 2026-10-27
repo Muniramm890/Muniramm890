@@ -120,19 +120,10 @@ flowchart LR
 | [**SchoolOffice**](https://github.com/Muniramm890/SchoolOffice) | Product website | ![](https://img.shields.io/github/last-commit/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/SchoolOffice?style=flat-square&labelColor=1E2E52&color=E8600A) |
 | [**E-LAB**](https://github.com/Muniramm890/E-LAB) | Digital Math E-Lab for NCERT | ![](https://img.shields.io/github/last-commit/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/commit-activity/y/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/languages/top/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) | ![](https://img.shields.io/github/repo-size/Muniramm890/E-LAB?style=flat-square&labelColor=1E2E52&color=E8600A) |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muniramm890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8600A&icon_color=E8600A" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniramm890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8600A" />
-</p>
+### 📈 GitHub metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muniramm890&theme=tokyonight&hide_border=true&background=0D1117&ring=E8600A&fire=E8600A&currStreakLabel=E8600A" />
-</p>
-
-### 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muniramm890&bg_color=0D1117&color=E8600A&line=E8600A&point=FFFFFF&area=true&area_color=E8600A&hide_border=true" alt="Contribution activity graph" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
